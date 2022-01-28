@@ -1,0 +1,11 @@
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\bin\Debug\netcoreapp2.1\Decoratorr.deps.json
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\bin\Debug\netcoreapp2.1\Decoratorr.runtimeconfig.json
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\bin\Debug\netcoreapp2.1\Decoratorr.runtimeconfig.dev.json
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\bin\Debug\netcoreapp2.1\Decoratorr.dll
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\bin\Debug\netcoreapp2.1\Decoratorr.pdb
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\obj\Debug\netcoreapp2.1\Decoratorr.csprojAssemblyReference.cache
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\obj\Debug\netcoreapp2.1\Decoratorr.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\obj\Debug\netcoreapp2.1\Decoratorr.AssemblyInfoInputs.cache
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\obj\Debug\netcoreapp2.1\Decoratorr.AssemblyInfo.cs
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\obj\Debug\netcoreapp2.1\Decoratorr.dll
+C:\Users\90535\source\repos\Decoratorr\Decoratorr\obj\Debug\netcoreapp2.1\Decoratorr.pdb
