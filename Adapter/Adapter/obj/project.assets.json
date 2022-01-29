@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90535\\source\\repos\\Adapter\\Adapter\\Adapter.csproj",
+      "projectUniqueName": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Adapter\\Adapter\\Adapter.csproj",
       "projectName": "Adapter",
-      "projectPath": "C:\\Users\\90535\\source\\repos\\Adapter\\Adapter\\Adapter.csproj",
+      "projectPath": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Adapter\\Adapter\\Adapter.csproj",
       "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90535\\source\\repos\\Adapter\\Adapter\\obj\\",
+      "outputPath": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Adapter\\Adapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
