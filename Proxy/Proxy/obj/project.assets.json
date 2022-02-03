@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Decorator\\Decoratorr\\Decoratorr.csproj",
-      "projectName": "Decoratorr",
-      "projectPath": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Decorator\\Decoratorr\\Decoratorr.csproj",
+      "projectUniqueName": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Proxy\\Proxy\\Proxy.csproj",
+      "projectName": "Proxy",
+      "projectPath": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Proxy\\Proxy\\Proxy.csproj",
       "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Decorator\\Decoratorr\\obj\\",
+      "outputPath": "C:\\Users\\90535\\source\\repos\\StructuralDesignPatterns\\Proxy\\Proxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.deps.json
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.runtimeconfig.json
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.runtimeconfig.dev.json
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.dll
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.pdb
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.csprojAssemblyReference.cache
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.AssemblyInfo.cs
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.dll
+C:\Users\90535\source\repos\StructuralDesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.pdb
